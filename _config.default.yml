@@ -1,7 +1,7 @@
 # head
 menu:
-  カタログ/（目录）: /archives
-  # sitemap: /sitemap.xml
+  目录: /archives
+  博客园: https://zhutty.cnblogd.com
   # other menus
 
 rss: /atom.xml
