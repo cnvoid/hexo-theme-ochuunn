@@ -35,8 +35,8 @@ valine:
 
 # livere
 livere:
-  id: ""
-  uid: ""
+  id: "lv-container"
+  uid: "MTAyMC80NDEzOS8yMDY3Mw=="
 
 # copyright
 start_year: 2016
